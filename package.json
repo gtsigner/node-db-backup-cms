@@ -1,0 +1,25 @@
+{
+  "name": "init",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "cron-parser": "^2.4.2",
+    "debug": "~2.6.3",
+    "ejs": "^2.5.7",
+    "encodeurl": "^1.0.1",
+    "express": "~4.15.2",
+    "moment": "^2.18.1",
+    "mongoose": "^4.12.1",
+    "morgan": "~1.8.1",
+    "mysql": "^2.15.0",
+    "node-mysql-dump": "^1.0.0",
+    "node-schedule": "^1.2.5",
+    "serve-favicon": "~2.4.2",
+    "uuid": "^3.1.0"
+  }
+}
